@@ -23,7 +23,7 @@
     "http-status": "^1.7.4",
     "joi": "^17.12.3",
     "pino": "^7.8.1",
-    "ws": "^8.18.0"
+    "ws": "^8.18.3"
   },
   "devDependencies": {
     "@types/chai": "^4.3.0",
