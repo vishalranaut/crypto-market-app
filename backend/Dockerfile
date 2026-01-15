@@ -1,4 +1,4 @@
-FROM node:20
+FROM node:20.19.6-trixie-slim
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
